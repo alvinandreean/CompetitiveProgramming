@@ -1,2 +1,3 @@
 # CompetitiveProgramming
-Practicing problems from the internet
+
+Alvin Andrean
